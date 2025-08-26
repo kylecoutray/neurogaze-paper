@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: frontiers.aux
+The style file: Frontiers-Harvard.bst
+Database file #1: refs.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty pages in isomoto
+Warning--empty pages in 101145
+Warning--empty booktitle in Pan2017EvaluationOC
+Warning--empty pages in Pan2017EvaluationOC
+You've used 36 entries,
+            3029 wiz_defined-function locations,
+            871 strings with 13989 characters,
+and the built_in function-call counts, 27842 in all, are:
+= -- 2372
+> -- 1563
+< -- 9
++ -- 780
+- -- 421
+* -- 1945
+:= -- 3953
+add.period$ -- 108
+call.type$ -- 36
+change.case$ -- 348
+chr.to.int$ -- 37
+cite$ -- 76
+duplicate$ -- 1848
+empty$ -- 1834
+format.name$ -- 530
+if$ -- 5835
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 400
+newline$ -- 260
+num.names$ -- 144
+pop$ -- 938
+preamble$ -- 1
+purify$ -- 284
+quote$ -- 0
+skip$ -- 1198
+stack$ -- 0
+substring$ -- 915
+swap$ -- 951
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 318
+warning$ -- 4
+while$ -- 143
+width$ -- 0
+write$ -- 589
+(There were 4 warnings)
