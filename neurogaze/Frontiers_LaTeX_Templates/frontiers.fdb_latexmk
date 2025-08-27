@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex frontiers"] 1756250267.5188 "frontiers.aux" "frontiers.bbl" "frontiers" 1756250701.80676 0
+["bibtex frontiers"] 1756262849.48358 "frontiers.aux" "frontiers.bbl" "frontiers" 1756262934.38936 0
   "./Frontiers-Harvard.bst" 1695236938 31641 1341c127ed7af43085eb64600f38bbe5 ""
-  "./refs.bib" 1756245491.3346 39869 63f4c5defad0756c4e9530c980d1e31d ""
-  "frontiers.aux" 1756250701.47624 10224 aa5428cb52548291a9f2b0c5524885ef "pdflatex"
+  "./refs.bib" 1756262849.30509 38479 6b1d96904f1d77c3fa78ab7580933328 ""
+  "frontiers.aux" 1756262934.09821 10105 063dfeab8f13e77a5a4dee478cd1ba1e "pdflatex"
   (generated)
   "frontiers.bbl"
   "frontiers.blg"
   (rewritten before read)
-["pdflatex"] 1756250700.12805 "/Users/kyle./Desktop/neurogaze/Frontiers_LaTeX_Templates/frontiers.tex" "frontiers.pdf" "frontiers" 1756250701.80695 0
-  "/Users/kyle./Desktop/neurogaze/Frontiers_LaTeX_Templates/frontiers.tex" 1756250701.11318 38115 974e5cb6ebf8838ea7d288acbd5a3658 ""
+["pdflatex"] 1756262932.72663 "/Users/kyle./Desktop/neurogaze-paper/neurogaze/Frontiers_LaTeX_Templates/frontiers.tex" "frontiers.pdf" "frontiers" 1756262934.38953 0
+  "/Users/kyle./Desktop/neurogaze-paper/neurogaze/Frontiers_LaTeX_Templates/frontiers.tex" 1756262932.50841 38417 5b10b41d583df6392b14b14ae6714383 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -164,10 +164,10 @@
   "figures/flowchart_for_training.png" 1756219704.88306 74196 e02f94dbd340caabee9394a1d43e9906 ""
   "figures/graphs.png" 1756249456.57385 59243 57dbc3b62cdb135c7004231f61acfa4f ""
   "figures/unity.png" 1756247325.06634 598630 b59e82517b94a4ade505012fbea1cd2b ""
-  "frontiers.aux" 1756250701.47624 10224 aa5428cb52548291a9f2b0c5524885ef "pdflatex"
-  "frontiers.bbl" 1756250267.65055 14621 1093bc8e8d2140519868677b3f0e391c "bibtex frontiers"
-  "frontiers.out" 1756250701.47752 2172 2be7fc500cc4c8a3f3c263dd99141be5 "pdflatex"
-  "frontiers.tex" 1756250701.11318 38115 974e5cb6ebf8838ea7d288acbd5a3658 ""
+  "frontiers.aux" 1756262934.09821 10105 063dfeab8f13e77a5a4dee478cd1ba1e "pdflatex"
+  "frontiers.bbl" 1756262849.59764 14105 c742fcec1bcc18b4d0ef06fb2286e442 "bibtex frontiers"
+  "frontiers.out" 1756262934.09913 2172 2be7fc500cc4c8a3f3c263dd99141be5 "pdflatex"
+  "frontiers.tex" 1756262932.50841 38417 5b10b41d583df6392b14b14ae6714383 ""
   "logo1.eps" 1695236938 37462 776b4d7efab5d1912cafad2bab92a208 ""
   (generated)
   "frontiers.aux"

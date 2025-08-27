@@ -5,48 +5,47 @@ The style file: Frontiers-Harvard.bst
 Database file #1: refs.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty pages in isomoto
-Warning--empty pages in 101145
 Warning--empty booktitle in Pan2017EvaluationOC
 Warning--empty pages in Pan2017EvaluationOC
-You've used 36 entries,
+You've used 35 entries,
             3029 wiz_defined-function locations,
-            871 strings with 13989 characters,
-and the built_in function-call counts, 27842 in all, are:
-= -- 2372
-> -- 1563
+            865 strings with 13682 characters,
+and the built_in function-call counts, 27013 in all, are:
+= -- 2308
+> -- 1507
 < -- 9
-+ -- 780
-- -- 421
-* -- 1945
-:= -- 3953
-add.period$ -- 108
-call.type$ -- 36
-change.case$ -- 348
-chr.to.int$ -- 37
-cite$ -- 76
-duplicate$ -- 1848
-empty$ -- 1834
-format.name$ -- 530
-if$ -- 5835
++ -- 752
+- -- 406
+* -- 1878
+:= -- 3837
+add.period$ -- 105
+call.type$ -- 35
+change.case$ -- 336
+chr.to.int$ -- 36
+cite$ -- 73
+duplicate$ -- 1794
+empty$ -- 1780
+format.name$ -- 512
+if$ -- 5666
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 400
-newline$ -- 260
-num.names$ -- 144
-pop$ -- 938
+missing$ -- 387
+newline$ -- 253
+num.names$ -- 140
+pop$ -- 900
 preamble$ -- 1
-purify$ -- 284
+purify$ -- 275
 quote$ -- 0
-skip$ -- 1198
+skip$ -- 1168
 stack$ -- 0
-substring$ -- 915
-swap$ -- 951
+substring$ -- 904
+swap$ -- 925
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 318
-warning$ -- 4
-while$ -- 143
+type$ -- 309
+warning$ -- 3
+while$ -- 140
 width$ -- 0
-write$ -- 589
-(There were 4 warnings)
+write$ -- 572
+(There were 3 warnings)
