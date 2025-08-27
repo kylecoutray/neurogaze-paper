@@ -320,6 +320,7 @@ INPUT ./figures/graphs.png
 INPUT ./figures/graphs.png
 INPUT ./figures/graphs.png
 INPUT ./figures/graphs.png
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT ./frontiers.bbl
 INPUT ./frontiers.bbl
 INPUT frontiers.bbl

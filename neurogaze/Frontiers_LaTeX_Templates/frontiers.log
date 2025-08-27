@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  26 AUG 2025 22:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  27 AUG 2025 00:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -636,9 +636,6 @@ Package pdftex.def Info: figures/unity.png  used on input line 130.
 Overfull \vbox (2.151pt too high) has occurred while \output is active []
 
  [4 <./figures/flowchart_for_training.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 
 Overfull \vbox (2.151pt too high) has occurred while \output is active []
@@ -652,7 +649,7 @@ Overfull \vbox (2.151pt too high) has occurred while \output is active []
 <figures/graphs.png, id=235, 509.7444pt x 108.405pt>
 File: figures/graphs.png Graphic file (type png)
 <use figures/graphs.png>
-Package pdftex.def Info: figures/graphs.png  used on input line 208.
+Package pdftex.def Info: figures/graphs.png  used on input line 205.
 (pdftex.def)             Requested size: 483.69684pt x 102.87001pt.
 
 
@@ -670,7 +667,7 @@ Overfull \vbox (2.151pt too high) has occurred while \output is active []
 Overfull \vbox (2.151pt too high) has occurred while \output is active []
 
  [9]
-Overfull \hbox (49.90005pt too wide) in paragraph at lines 262--263
+Overfull \hbox (49.90005pt too wide) in paragraph at lines 263--264
 \OT1/ptm/m/n/12 (-20) The datasets analyzed for this study can be found in the GitHub repository here: https://github.com/Wanyea/NeuroGaze. 
  []
 
@@ -698,18 +695,18 @@ Package rerunfilecheck Info: File `frontiers.out' has not changed.
 (rerunfilecheck)             Checksum: 2BE7FC500CC4C8A3F3C263DD99141BE5;2172.
  ) 
 Here is how much of TeX's memory you used:
- 16806 strings out of 473190
- 267333 string characters out of 5715801
- 725809 words of memory out of 5000000
- 39385 multiletter control sequences out of 15000+600000
- 600528 words of font info for 285 fonts, out of 8000000 for 9000
+ 16812 strings out of 473190
+ 267406 string characters out of 5715801
+ 725808 words of memory out of 5000000
+ 39387 multiletter control sequences out of 15000+600000
+ 601141 words of font info for 288 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
- 87i,17n,131p,1780b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,17n,131p,1780b,693s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on frontiers.pdf (12 pages, 2983614 bytes).
+Output written on frontiers.pdf (12 pages, 2982996 bytes).
 PDF statistics:
- 355 PDF objects out of 1000 (max. 8388607)
- 303 compressed objects within 4 object streams
+ 353 PDF objects out of 1000 (max. 8388607)
+ 301 compressed objects within 4 object streams
  75 named destinations out of 1000 (max. 500000)
- 69298 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 71346 words of extra memory for PDF output out of 74296 (max. 10000000)
 
